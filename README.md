@@ -6,7 +6,7 @@ Para poderla iniciar y usar debemos invocar los modulos de node:
 
 ## Npm init
 
-!([Open_Weather](https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png "Open weater")
-!([Mapbox](https://mma.prnewswire.com/media/613947/mapbox_logo_color.jpg? "Mapbox")
+!([](https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png) {width='100px' height='100px'}
+!([](https://mma.prnewswire.com/media/613947/mapbox_logo_color.jpg? {width='100px' height='100px'})
 
 
